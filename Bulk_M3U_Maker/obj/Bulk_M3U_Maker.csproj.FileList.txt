@@ -1,0 +1,16 @@
+bin\Debug\Bulk_M3U_Maker.exe
+bin\Debug\Bulk_M3U_Maker.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bulk_M3U_Maker.Form1.resources
+obj\Debug\Bulk_M3U_Maker.Properties.Resources.resources
+obj\Debug\Bulk_M3U_Maker.csproj.GenerateResource.Cache
+obj\Debug\Bulk_M3U_Maker.exe
+obj\Debug\Bulk_M3U_Maker.pdb
+bin\Release\Bulk_M3U_Maker.exe
+bin\Release\Bulk_M3U_Maker.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Bulk_M3U_Maker.Form1.resources
+obj\Release\Bulk_M3U_Maker.Properties.Resources.resources
+obj\Release\Bulk_M3U_Maker.csproj.GenerateResource.Cache
+obj\Release\Bulk_M3U_Maker.exe
+obj\Release\Bulk_M3U_Maker.pdb
